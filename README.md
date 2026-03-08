@@ -36,7 +36,7 @@ Project requirements:
 ## Project
 
 - **Name:** PokéBrowse
-- **Public URL:** (deploy this project to Vercel or GitHub Pages and paste the URL here)
+- **Public URL:** https://cosmih7.github.io/cosminfinalp.github.io/
 
 ## Summary
 
@@ -73,5 +73,5 @@ The repo includes a simple unit test for the `Card` component using Vitest and T
 - **What worked well:** React Router integration and fetching from the PokéAPI were straightforward; composing small components made development fast and modular.
 - **What didn't work well:** Fetching multiple Pokémon details required additional requests which made initial loading slower; batching or server-side caching would help.
 - **What changes would you make now that it's deployed:** Add pagination or infinite scroll to reduce initial load and improve UX; add client-side caching for API responses.
-- **What would you improve/add:** Add search and filters, better error handling and loading skeletons, and deploy with automated CI to run tests on push. ok
+- **What would you improve/add:** Add search and filters, better error handling and loading skeletons.
 
