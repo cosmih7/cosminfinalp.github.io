@@ -76,3 +76,4 @@ The repo includes a simple unit test for the `Card` component using Vitest and T
 - **What would you improve/add:** Add search and filters, better error handling and loading animations.
 
 If you like to play Pokémon you will enjoi PokéBrowse as you find you favorite caraters! is a simple but informative website! Enjoy!
+Good By!
